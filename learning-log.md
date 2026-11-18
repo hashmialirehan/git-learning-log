@@ -1,15 +1,5 @@
-# My Learning Log
+# ## What I Learned Today
 
-## About This Project
+- Git is like a time machine for your files
 
-I'm learning Git and version control to track my work.  
-
-## Goals
-
-- Understand how commits work  
-- Learn branching and merging  
-- Push my work to GitHub
-
-## What I Learned Today
-
-- Git tracks changes to files over time
+- Every commit is a snapshot you can go back to

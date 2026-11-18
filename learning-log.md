@@ -1,10 +1,15 @@
-# My Learning Log  
-  
-## About This Project  
+# My Learning Log
+
+## About This Project
+
 I'm learning Git and version control to track my work.  
-  
-## Goals  
+
+## Goals
+
 - Understand how commits work  
 - Learn branching and merging  
-- Push my work to GitHub  
-  
+- Push my work to GitHub
+
+## What I Learned Today
+
+- Git tracks changes to files over time
